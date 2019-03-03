@@ -1,0 +1,12 @@
+.nav-item{
+  width: 70px
+}
+
+body{
+  padding-left: 10px
+}
+
+
+table, td{
+  border: 1px solid blue;
+}
